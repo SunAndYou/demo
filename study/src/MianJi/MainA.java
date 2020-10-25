@@ -7,5 +7,6 @@ public class MainA {
 
         Cicle cicle = new Cicle(3.0);//新建类Cicle的对象
         cicle.area();//调用方法
+        System.out.println("git_push");
     }
 }
